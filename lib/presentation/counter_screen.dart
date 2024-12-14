@@ -12,7 +12,7 @@ class CounterScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.black,
       appBar: AppBar(
-        title: const Text("DIGIA Flutter Assignment", style: TextStyle(color: Colors.white, fontSize: 16,),),
+        title: const Text("Custom State Management", style: TextStyle(color: Colors.white, fontSize: 16,),),
         backgroundColor: Colors.black,
         centerTitle: true,
       ),
