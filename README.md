@@ -14,9 +14,14 @@ A simple Flutter application that implements a counter functionality with a cust
 
 ## Screenshots
 
-![Counter App Screenshot](screenshot.png) <!-- Add a screenshot of your app here. Replace the file name if needed. -->
+<div style="display: flex; gap:40px; justify-content: center;">
+<img src="https://drive.google.com/uc?export=view&id=10NOKzN1yD8hQZ8BRPb8WS2YpQfsVXrGJ"  width="200"/>
 
----
+<img src="https://drive.google.com/uc?export=view&id=1wvXrgB4djS0k-IW-dnZPl6TXXTz8Fizq"  width="200"/>
+
+
+
+</div>
 
 ## Installation
 
@@ -27,7 +32,7 @@ A simple Flutter application that implements a counter functionality with a cust
 
 ### Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/itsvinayyay/custom_state_management.git
 cd <project-folder> 
 ```
 
