@@ -17,7 +17,7 @@ A simple Flutter application that implements a counter functionality with a cust
 <div style="display: flex; gap:40px; justify-content: center;">
 <img src="https://drive.google.com/uc?export=view&id=10NOKzN1yD8hQZ8BRPb8WS2YpQfsVXrGJ"  width="200"/>
 
-<img src="https://drive.google.com/uc?export=view&id=1wvXrgB4djS0k-IW-dnZPl6TXXTz8Fizq" width="200" style="display: block; margin-top: 20px;"/>
+<img src="https://drive.google.com/uc?export=view&id=1wvXrgB4djS0k-IW-dnZPl6TXXTz8Fizq">
 
 
 
