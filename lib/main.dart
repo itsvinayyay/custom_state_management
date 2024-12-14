@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       // home: ApiProvider(api: Api(), child: MyHomePage()),
-      home: CounterProvider(counterData: counterData, child: CounterScreen()),
+      home: CounterProvider(counterData: counterData, child: const CounterScreen()),
     );
   }
 }
